@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam, I am currently a Junior Cybersecurity Analyst</h1>
+<h1>Hi, Welcome to my Github Portfolio.</h1>
 
 <h2>Cybersecurity Projects:</h2>
 
