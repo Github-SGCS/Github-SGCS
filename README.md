@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam <br/><a href="https://github.com/Github-SGCS">Junior Cybersecurity Analyst</a>, <a href="www.linkedin.com/in/samuel-gresty-1478a7195" </a></h1>
+<h1>Hi, I'm Sam, I am currently a Junior Cybersecurity Analyst</h1>
 
 <h2>Cybersecurity Projects:</h2>
 
