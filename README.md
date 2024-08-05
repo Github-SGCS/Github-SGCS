@@ -8,7 +8,7 @@
   - [Password Strength Tester](https://github.com/Github-SGCS/Password-Strength-Test/blob/main/README.md)
 
 - <b>Cyber Documentation</b>
-
+  - [Cybersecurity Policy](https://github.com/Github-SGCS/Cybersecurity-Policy)
 <!--
 **Github-SGCS/Github-SGCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
