@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my Github Portfolio.</h1>
+<h1>Hi, Welcome to my Github repository</h1>
 
 <h1> !!WEBSITE COMING SOON!! </h1>
 
