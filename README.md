@@ -9,6 +9,7 @@
 
 - <b>Cyber Documentation</b>
   - [Cybersecurity Policy](https://github.com/Github-SGCS/Cybersecurity-Policy)
+  - [Incident Response Plan](https://github.com/Github-SGCS/Cybersecurity-Incident-Response-Plan/tree/main)
 <!--
 **Github-SGCS/Github-SGCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
