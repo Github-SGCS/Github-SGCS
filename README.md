@@ -4,8 +4,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  - [Password Strength Tester](https://github.com/Github-SGCS/Password-Strength-Test/blob/main/README.md)
+- <b>Scripting / Programming</b>
+  - [Python - Password Strength Tester](https://github.com/Github-SGCS/Password-Strength-Test/blob/main/README.md)
 
 - <b>Cyber Documentation</b>
   - [Cybersecurity Policy](https://github.com/Github-SGCS/Cybersecurity-Policy)
