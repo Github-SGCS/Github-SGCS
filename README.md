@@ -6,7 +6,7 @@
 
 - <b>Scripting / Programming</b>
   - [Python - Password Strength Tester](https://github.com/Github-SGCS/Password-Strength-Test/blob/main/README.md)
-  - [HTML - Moving Banner]
+  - [HTML - Moving Banner](https://github.com/Github-SGCS/HTML---Moving-Banner)
 
 - <b>Cyber Documentation</b>
   - [Cybersecurity Policy](https://github.com/Github-SGCS/Cybersecurity-Policy)
