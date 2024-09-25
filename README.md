@@ -14,7 +14,8 @@
   - [Cybersecurity Training Module](https://github.com/Github-SGCS/SGCS-Cybersecurity-Training-Module)
 
 - <b>"Day-To-Day" Projects </b>
-  - Building a SIEM - Microsoft Sentinel
+  - [Building a SIEM - Microsoft Sentinel](https://github.com/Github-SGCS/Building-a-SIEM---Microsoft-Sentinel-)
+  
 
 <!--
 **Github-SGCS/Github-SGCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
