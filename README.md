@@ -1,4 +1,4 @@
-# Hi, I'm SGCS 👋
+# Hi, I'm Sam Gresty 👋
 **Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified**
 
 I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
