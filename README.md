@@ -1,33 +1,44 @@
-<h1>Hi, Welcome to my Github repository</h1>
+# Hi, I'm SGCS 👋
+**Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified**
 
-<h1> !!WEBSITE NOW LIVE!! </h1>
+I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
+This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups, and projects.  
 
-<h2>Cybersecurity Projects:</h2>
+---
 
-- <b>Scripting / Programming</b>
-  - [Python - Password Strength Tester](https://github.com/Github-SGCS/Password-Strength-Test/blob/main/README.md)
-  - [HTML - Moving Banner](https://github.com/Github-SGCS/HTML---Moving-Banner)
+## 🛠 Skills & Tools
 
-- <b>Cyber Documentation</b>
-  - [Cybersecurity Policy](https://github.com/Github-SGCS/Cybersecurity-Policy)
-  - [Incident Response Plan](https://github.com/Github-SGCS/Cybersecurity-Incident-Response-Plan/tree/main)
-  - [Cybersecurity Training Module](https://github.com/Github-SGCS/SGCS-Cybersecurity-Training-Module)
+**Cybersecurity:** Penetration Testing, Vulnerability Management, Security Monitoring, SIEM  
+**Cloud & IT:** Azure, AWS, Networking, Active Directory, Linux/Windows  
+**Programming / Scripting:** Python, Bash, PowerShell  
+**Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Terraform, Ansible  
 
-- <b>"Day-To-Day" Projects </b>
-  - [Building a SIEM - Microsoft Sentinel](https://github.com/Github-SGCS/Building-a-SIEM---Microsoft-Sentinel-)
-  
+---
 
-<!--
-**Github-SGCS/Github-SGCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Projects & Portfolio
 
-Here are some ideas to get you started:
+> Click the project title to view the repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Cyber Lab: Network Pentest](#)
+Simulated corporate network pentesting lab with detailed write-ups, findings, and remediation recommendations.
+
+### [Cloud Security Setup](#)
+Secure Azure and AWS environment configurations with automation scripts for best-practice deployment.
+
+### [CTF Write-ups](#)
+Step-by-step solutions and lessons from various cybersecurity challenges.  
+
+### [Scripts & Automation](#)
+Python, Bash, and PowerShell scripts for security automation, monitoring, and reporting.  
+
+> 🔗 More projects and work examples can also be found on my [website](https://sgcs.uk).
+
+---
+
+## 📫 Contact
+
+- **Website:** [sgcs.uk](https://sgcs.uk)  
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- **Email:** your.email@example.com  
+
+---
