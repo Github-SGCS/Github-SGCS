@@ -2,7 +2,7 @@
 **Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified**
 
 I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
-This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups, and projects.  
+This GitHub is my portfolio, where you can explore my work, labs, and projects.  
 
 ---
 
