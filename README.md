@@ -44,6 +44,6 @@ Used a basic Python script to test the strength of a password.
 
 - **Website:** [sgcs.uk](https://sgcs.uk)  
 - **LinkedIn:** [Sam Gresty](www.linkedin.com/in/samuel-gresty)  
-- **Email:** samgresty1@icloud.com
+- **Email:** sam@sgcs.uk
 
 ---
