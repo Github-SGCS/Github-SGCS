@@ -13,6 +13,7 @@ This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups,
 **Programming / Scripting:** PowerShell, KQL, Python   
 **Tools:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk
 **Auditors:** ISO, Cyberessentials, CIS Benchmark
+
 ---
 
 ## 💻 Projects & Portfolio
