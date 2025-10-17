@@ -19,17 +19,17 @@ This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups,
 
 > Click the project title to view the repository.
 
-### [Cyber Lab: Network Pentest](#)
-Simulated corporate network pentesting lab with detailed write-ups, findings, and remediation recommendations.
+### [Building a SIEM in Microsoft Sentinel](https://github.com/Github-SGCS/Building-a-SIEM---Microsoft-Sentinel-)
+Experimented building a SIEM to monitor RDP attempts on a local admin .
 
-### [Cloud Security Setup](#)
-Secure Azure and AWS environment configurations with automation scripts for best-practice deployment.
+### [Cybersecurity Training Module](https://github.com/Github-SGCS/SGCS-Cybersecurity-Training-Module)
+Created to demonstrate a cybersecurity presentation.
 
-### [CTF Write-ups](#)
-Step-by-step solutions and lessons from various cybersecurity challenges.  
+### [Moving banner - HTML](https://github.com/Github-SGCS/HTML---Moving-Banner)
+Kickstarted my HTML learning with a moving banner.  
 
-### [Scripts & Automation](#)
-Python, Bash, and PowerShell scripts for security automation, monitoring, and reporting.  
+### [Python - Password Strength test](https://github.com/Github-SGCS/Password-Strength-Test)
+Used a basic Python script to test the strength of a password.  
 
 > 🔗 More projects and work examples can also be found on my [website](https://sgcs.uk).
 
@@ -38,7 +38,7 @@ Python, Bash, and PowerShell scripts for security automation, monitoring, and re
 ## 📫 Contact
 
 - **Website:** [sgcs.uk](https://sgcs.uk)  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- **Email:** your.email@example.com  
+- **LinkedIn:** [Sam Gresty](www.linkedin.com/in/samuel-gresty)  
+- **Email:** samgresty1@icloud.com
 
 ---
