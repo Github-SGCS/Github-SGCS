@@ -8,11 +8,12 @@ This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups,
 
 ## 🛠 Skills & Tools
 
-**Cybersecurity:** Security Monitoring, Vulnerability Management, Patch Mananagement, Microsoft Admin Suite  
-**Cloud & IT:** Azure, Networking, Active Directory, Linux/Windows  
-**Programming / Scripting:** PowerShell, KQL, Python   
-**Tools:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk
-**Auditors:** ISO, Cyberessentials, CIS Benchmark
+Cybersecurity: Security Monitoring, Vulnerability Management, Patch Management, Microsoft Admin Suite
+Cloud & IT: Azure, Networking, Active Directory, Linux/Windows
+Programming / Scripting: PowerShell, KQL, Python
+Tools: Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk
+Auditors: ISO, Cyber Essentials, CIS Benchmark
+
 
 ---
 
