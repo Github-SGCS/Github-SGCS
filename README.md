@@ -8,10 +8,11 @@ This GitHub is my portfolio, where you can explore my work, labs, CTF write-ups,
 
 ## 🛠 Skills & Tools
 
-**Cybersecurity:** Penetration Testing, Vulnerability Management, Security Monitoring, SIEM  
-**Cloud & IT:** Azure, AWS, Networking, Active Directory, Linux/Windows  
-**Programming / Scripting:** Python, Bash, PowerShell  
-**Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Terraform, Ansible  
+**Cybersecurity:** Security Monitoring, Vulnerability Management, Patch Mananagement, Microsoft Admin Suite  
+**Cloud & IT:** Azure, Networking, Active Directory, Linux/Windows  
+**Programming / Scripting:** PowerShell, KQL, Python   
+**Tools:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk
+**Auditors:** ISO, Cyberessentials, CIS Benchmark
 
 ---
 
