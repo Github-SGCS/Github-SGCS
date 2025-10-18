@@ -2,21 +2,17 @@
 **Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified**
 
 I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
-This GitHub is my portfolio, where you can explore my work, labs, and projects.  
+This GitHub serves as my professional portfolio, where you can explore my work, labs, and projects across cybersecurity, cloud, and IT.
 
 ---
 
 ## 🛠 Skills & Tools
 
 **Cybersecurity:** Security Monitoring, Vulnerability Management, Patch Management, Microsoft Admin Suite  
-
 **Cloud & IT:** Azure, Networking, Active Directory, Linux/Windows  
-
 **Programming / Scripting:** PowerShell, KQL, Python  
-
-**Tools:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk  
-
-**Auditors:** ISO, Cyber Essentials, CIS Benchmark
+**Tools & Platforms:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk  
+**Standards & Auditors:** ISO, Cyber Essentials, CIS Benchmark
 
 ---
 
@@ -24,26 +20,32 @@ This GitHub is my portfolio, where you can explore my work, labs, and projects.
 
 > Click the project title to view the repository.
 
-### [Building a SIEM in Microsoft Sentinel](https://github.com/Github-SGCS/Building-a-SIEM---Microsoft-Sentinel-)
-Experimented building a SIEM to monitor RDP attempts on a local admin .
+### Technical Projects
+- [PowerShell-Automation]() – PowerShell scripts for security and cloud automation  
+- [KQL-Detections]() – Custom KQL queries for SIEM  
+- [Python-Password-Tool]() – Password strength testing script  
+- [SIEM-Project]() – Built and configured a Microsoft Sentinel SIEM  
+- [Hybrid-Infrastructure-Design]() – Diagrams and deployment notes for hybrid cloud architecture
 
-### [Cybersecurity Training Module](https://github.com/Github-SGCS/SGCS-Cybersecurity-Training-Module)
-Created to demonstrate a cybersecurity presentation.
+### Governance & Frameworks
+- [Risk-Management-Framework]() – Risk frameworks, appetite statements, and documentation  
+- [Vulnerability-Management]() – SOPs and reporting workflows  
+- [Cybersecurity-Policies]() – Policies, incident response, and compliance documentation  
+- [Cybersecurity-Training]() – Awareness training modules and presentations  
+- [Malware-Handling-Guide]() – Malware handling and analysis guide
 
-### [Moving banner - HTML](https://github.com/Github-SGCS/HTML---Moving-Banner)
-Kickstarted my HTML learning with a moving banner.  
+### Incident Response & Testing
+- [External-PenTest-Documentation]() – Sample penetration test report and remediation plan
 
-### [Python - Password Strength test](https://github.com/Github-SGCS/Password-Strength-Test)
-Used a basic Python script to test the strength of a password.  
+### Portfolio Website
+- [Portfolio-Website](https://sgcs.uk) – My GitHub Pages site (sgcs.uk)
 
-> 🔗 More projects and work examples can also be found on my [website](https://sgcs.uk).
+> 🔗 More work and project examples are also on my [website](https://sgcs.uk)
 
 ---
 
 ## 📫 Contact
 
 - **Website:** [sgcs.uk](https://sgcs.uk)  
-- **LinkedIn:** [Sam Gresty](www.linkedin.com/in/samuel-gresty)  
+- **LinkedIn:** [Sam Gresty](https://www.linkedin.com/in/samuel-gresty) 
 - **Email:** sam@sgcs.uk
-
----
