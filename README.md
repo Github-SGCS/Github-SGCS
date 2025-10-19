@@ -37,10 +37,8 @@ This GitHub serves as my professional portfolio, where you can explore my work, 
 ### Incident Response & Testing
 - [External-PenTest-Documentation]() – Sample penetration test report and remediation plan
 
-### Portfolio Website
-- [Portfolio-Website](https://sgcs.uk) – My GitHub Pages site (sgcs.uk)
-
-> 🔗 More work and project examples are also on my [website](https://sgcs.uk)
+### Online Portfolio
+- [Portfolio-Website](https://sgcs.uk) – More work and project examples are also on my [website](https://sgcs.uk)
 
 ---
 
