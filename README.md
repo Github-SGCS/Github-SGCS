@@ -38,7 +38,7 @@ This GitHub serves as my professional portfolio, where you can explore my work, 
 - [External-PenTest-Documentation]() – Sample penetration test report and remediation plan
 
 ### Online Portfolio
-- [Portfolio-Website](https://sgcs.uk) – More work and project examples are also on my [website](https://sgcs.uk)
+- More work and project examples are also on my [website](https://sgcs.uk)
 
 ---
 
