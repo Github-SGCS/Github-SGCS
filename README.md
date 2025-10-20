@@ -23,7 +23,7 @@ This GitHub serves as my professional portfolio, where you can explore my work, 
 ### Technical Projects
 - [PowerShell-Automation]() – PowerShell scripts for security and cloud automation  
 - [KQL-Detections]() – Custom KQL queries for SIEM  
-- [Python-Password-Tool]() – Password strength testing script  
+- [Python Projects](https://github.com/Github-SGCS/Python_Projects) – A showcase of python projects that i have completed. 
 - [SIEM-Project]() – Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid-Infrastructure-Design]() – Diagrams and deployment notes for hybrid cloud architecture
 
