@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**<span style="font-size:600%">Sam Gresty</span>**  
+**<span style="font-size:70px">Sam Gresty</span>**  
 Cybersecurity Analyst | SC-900 Certified  
 
 </div>
