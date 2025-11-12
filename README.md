@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Sam Gresty</h1>
-
 <p align="center">
   <b>Cybersecurity Analyst | SC-900 Certified</b>
 </p>
