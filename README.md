@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <p style="font-size: 64px; font-weight: bold; margin: 0;">Sam Gresty</p>
+  <p style="font-size: 64px; font-weight: 600; margin: 0;">Sam Gresty</p>
   <p style="font-size: 32px; font-weight: 500; margin: 0;">Cybersecurity Analyst | SC-900 Certified</p>
 </div>
 
