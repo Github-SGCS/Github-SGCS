@@ -3,9 +3,12 @@
 </p>
 
 <div align="center">
-  <h2 style="border-bottom: none; margin-bottom: 0;">Sam Gresty</h2>
-  <p><b>Cybersecurity Analyst | SC-900 Certified</b></p>
+
+**<span style="font-size:200%">Sam Gresty</span>**  
+Cybersecurity Analyst | SC-900 Certified  
+
 </div>
+
 
 
 ---
