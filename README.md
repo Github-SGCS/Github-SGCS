@@ -17,11 +17,11 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 
 ## 🛠 Skills & Tools
 
-**Cybersecurity:** Security Monitoring • Vulnerability Management • Patch Management • Microsoft Admin Suite • Arctic Wolf
-**Cloud & IT:** Azure • Networking • Active Directory • Linux/Windows  
-**Programming / Scripting:** PowerShell • KQL • Python  
-**Tools & Platforms:** Mimecast • Microsoft Admin Suite • Cisco Umbrella • 4Risk  
-**Standards & Auditors:** ISO • Cyber Essentials • CIS Benchmark
+**Cybersecurity:** Security Monitoring • Vulnerability Management • Patch Management • Microsoft Admin Suite • Arctic Wolf<br>
+**Cloud & IT:** Azure • Networking • Active Directory • Linux/Windows<br>
+**Programming / Scripting:** PowerShell • KQL • Python<br>
+**Tools & Platforms:** Mimecast • Microsoft Admin Suite • Cisco Umbrella • 4Risk<br>  
+**Standards & Auditors:** ISO • Cyber Essentials • CIS Benchmark<br>
 
 ---
 
