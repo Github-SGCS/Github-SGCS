@@ -2,9 +2,15 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQHq6rQOwCwShw/profile-displayphoto-scale_400_400/B4EZi5gUMuGcAg-/0/1755458914315?e=2147483647&v=beta&t=0ORhLDrNGskZ3hHwd5Jg1jSXey4zWorHXmDwmj4fiog" alt="Sam Gresty" width="180" style="border-radius:50%">
 </p>
 
-# Hi, I'm Sam Gresty 👋
-**Cybersecurity & Cloud Security Enthusiast | SC-900 Certified**
+<h1 align="center">Hi, I'm Sam Gresty 👋</h1>
 
+<p align="center">
+  <b>Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified</b>
+</p>
+
+---
+
+# 🧠 About me 
 I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
 This GitHub serves as my professional portfolio, where you can explore my work, labs, and projects across cybersecurity, cloud, and IT.
 
