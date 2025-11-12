@@ -10,18 +10,18 @@
 ---
 
 # 🧠 About me 
-I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
-This GitHub serves as my professional portfolio, where you can explore my work, labs, and projects across cybersecurity, cloud, and IT.
+I specialise in identifying, monitoring, and responding to cyber threats, investigating incidents, and managing vulnerabilities through effective patching - all to help protect systems and secure data.
+Here, you will find a selection of Projects, Write-ups and hand-picked resources that gives you a glimpse into my work and how I approach cybersecurity day to day.
 
 ---
 
 ## 🛠 Skills & Tools
 
-**Cybersecurity:** Security Monitoring, Vulnerability Management, Patch Management, Microsoft Admin Suite  
-**Cloud & IT:** Azure, Networking, Active Directory, Linux/Windows  
-**Programming / Scripting:** PowerShell, KQL, Python  
-**Tools & Platforms:** Mimecast, Microsoft Admin Suite, Cisco Umbrella, 4Risk  
-**Standards & Auditors:** ISO, Cyber Essentials, CIS Benchmark
+**Cybersecurity:** Security Monitoring • Vulnerability Management • Patch Management • Microsoft Admin Suite • Arctic Wolf
+**Cloud & IT:** Azure • Networking • Active Directory • Linux/Windows  
+**Programming / Scripting:** PowerShell • KQL • Python  
+**Tools & Platforms:** Mimecast • Microsoft Admin Suite • Cisco Umbrella • 4Risk  
+**Standards & Auditors:** ISO • Cyber Essentials • CIS Benchmark
 
 ---
 
