@@ -4,7 +4,7 @@
 
 <h1 align="center">Sam Gresty</h1>
 <p align="center">
-  <b>Cybersecurity Analyst | SC-900 Certified</b>
+<b>Cybersecurity Analyst | SC-900 Certified</b>
 </p>
 
 ---
