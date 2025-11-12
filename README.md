@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHq6rQOwCwShw/profile-displayphoto-scale_400_400/B4EZi5gUMuGcAg-/0/1755458914315?e=2147483647&v=beta&t=0ORhLDrNGskZ3hHwd5Jg1jSXey4zWorHXmDwmj4fiog" alt="Sam Gresty" width="180" style="border-radius:50%">
+</p>
+
 # Hi, I'm Sam Gresty 👋
-**Cybersecurity & Cloud Security Enthusiast | IT Specialist | SC-900 Certified**
+**Cybersecurity & Cloud Security Enthusiast | SC-900 Certified**
 
 I build secure, scalable IT and cloud environments, document security workflows, and create hands-on cybersecurity projects.  
 This GitHub serves as my professional portfolio, where you can explore my work, labs, and projects across cybersecurity, cloud, and IT.
@@ -37,12 +41,12 @@ This GitHub serves as my professional portfolio, where you can explore my work, 
 ### Incident Response & Testing
 - [External-PenTest-Documentation]() – Sample penetration test report and remediation plan
 
-### Online Portfolio
+### 🌐 Online Portfolio
 - More work and project examples are also on my [website](https://sgcs.uk)
 
 ---
 
-## 📫 Contact
+## 🤝 Connect with Me
 
 - **Website:** [sgcs.uk](https://sgcs.uk)  
 - **LinkedIn:** [Sam Gresty](https://www.linkedin.com/in/samuel-gresty) 
