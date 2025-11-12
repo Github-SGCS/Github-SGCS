@@ -2,11 +2,10 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQHq6rQOwCwShw/profile-displayphoto-scale_400_400/B4EZi5gUMuGcAg-/0/1755458914315?e=2147483647&v=beta&t=0ORhLDrNGskZ3hHwd5Jg1jSXey4zWorHXmDwmj4fiog" alt="Sam Gresty" width="180" style="border-radius:50%">
 </p>
 
-<h2 align="center" style="border-bottom: none;">Sam Gresty</h2>
-<p align="center">
-  <b>Cybersecurity Analyst | SC-900 Certified</b>
-</p>
-
+<div align="center">
+  <p style="font-size: 32px; font-weight: bold; margin: 0;">Sam Gresty</p>
+  <p style="font-size: 18px; font-weight: 500; margin: 0;">Cybersecurity Analyst | SC-900 Certified</p>
+</div>
 
 ---
 
