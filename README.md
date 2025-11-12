@@ -20,7 +20,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 **Cybersecurity:** Security Monitoring • Vulnerability Management • Patch Management • Microsoft Admin Suite • Arctic Wolf<br>
 **Cloud & IT:** Azure • Networking • Active Directory • Linux/Windows<br>
 **Programming / Scripting:** PowerShell • KQL • Python<br>
-**Tools & Platforms:** Mimecast • Microsoft Admin Suite • Cisco Umbrella • 4Risk<br>  
+**Tools & Platforms:** Mimecast • Microsoft Admin Suite • Cisco Umbrella • 4Risk<br>
 **Standards & Auditors:** ISO • Cyber Essentials • CIS Benchmark<br>
 
 ---
