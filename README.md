@@ -32,7 +32,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 ### Technical Projects
 - [PowerShell-Automation]() – PowerShell scripts for security and cloud automation  
 - [KQL-Detections]() – Custom KQL queries for SIEM  
-- [Python Projects](https://github.com/Github-SGCS/Python_Projects) – A showcase of python projects that i have completed. 
+- [Python Projects]() – A showcase of python projects that i have completed. 
 - [SIEM-Project]() – Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid-Infrastructure-Design]() – Diagrams and deployment notes for hybrid cloud architecture
 
@@ -40,7 +40,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Risk-Management-Framework]() – Risk frameworks, appetite statements, and documentation  
 - [Vulnerability-Management]() – SOPs and reporting workflows  
 - [Cybersecurity-Policies]() – Policies, incident response, and compliance documentation  
-- [Cybersecurity-Training](https://github.com/Github-SGCS/Governance-Frameworks/blob/main/Awareness%20Training.md) – Awareness training modules and presentations  
+- [Cybersecurity-Training]() – Awareness training modules and presentations  
 - [Malware-Handling-Guide]() – Malware handling and analysis guide
 
 ### Incident Response & Testing
