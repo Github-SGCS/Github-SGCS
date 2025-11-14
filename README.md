@@ -40,7 +40,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Risk-Management-Framework]() – Risk frameworks, appetite statements, and documentation  
 - [Vulnerability-Management]() – SOPs and reporting workflows  
 - [Cybersecurity-Policies]() – Policies, incident response, and compliance documentation  
-- [Cybersecurity-Training](https://github.com/Github-SGCS/Cybersecurity_Training) – Awareness training modules and presentations  
+- [Cybersecurity-Training](https://github.com/Github-SGCS/Governance-Frameworks/blob/main/Awareness%20Training.md) – Awareness training modules and presentations  
 - [Malware-Handling-Guide]() – Malware handling and analysis guide
 
 ### Incident Response & Testing
