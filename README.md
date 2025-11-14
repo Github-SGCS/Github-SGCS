@@ -39,7 +39,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 ### Governance & Frameworks
 - [Risk Management Framework]() – Risk frameworks, appetite statements, and documentation  
 - [Vulnerability Management]() – SOPs and reporting workflows  
-- Policies]() – Policies, incident response, and compliance documentation  
+- [Policies]() – Policies, incident response, and compliance documentation  
 - [Cybersecurity Training]() – Awareness training modules and presentations  
 - [Malware Handling Guide]() – Malware handling and analysis guide
 
