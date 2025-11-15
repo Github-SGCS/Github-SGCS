@@ -35,6 +35,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Python Projects]() – A showcase of python projects that i have completed. 
 - [SIEM Project]() – Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid Infrastructure Design]() – Diagrams and deployment notes for hybrid cloud architecture
+- [External PenTest Documentation]() – Sample penetration test report and remediation plan
 
 ### Governance & Frameworks
 - [Risk Management Framework]() – Risk frameworks, appetite statements, and documentation  
@@ -43,8 +44,6 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Cybersecurity Training]() – Awareness training modules and presentations  
 - [Malware Handling Guide]() – Malware handling and analysis guide
 
-### Incident Response & Testing
-- [External PenTest Documentation]() – Sample penetration test report and remediation plan
 
 ### 🌐 Online Portfolio
 - More work and project examples are also on my [website](https://sgcs.uk)
@@ -52,7 +51,6 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 ---
 
 ## 🤝 Connect with Me
-
 - **Website:** [sgcs.uk](https://sgcs.uk)  
 - **LinkedIn:** [Sam Gresty](https://www.linkedin.com/in/samuel-gresty) 
 - **Email:** sam@sgcs.uk
