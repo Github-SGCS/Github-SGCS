@@ -37,7 +37,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Hybrid Infrastructure Design]() – Diagrams and deployment notes for hybrid cloud architecture
 - [External PenTest Documentation]() – Sample penetration test report and remediation plan
 
-### Governance & Frameworks
+### Governance, Risk & Compliance
 - [Risk Management Framework]() – Risk frameworks, appetite statements, and documentation  
 - [Vulnerability Management]() – SOPs and reporting workflows  
 - [Policies]() – Policies, incident response, and compliance documentation  
