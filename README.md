@@ -30,19 +30,19 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 > Click the project title to view the repository.
 
 ### Technical Projects
-- [PowerShell Automation]() – PowerShell scripts for security and cloud automation  
-- [KQL Detections]() – Custom KQL queries for SIEM  
-- [Python Projects]() – A showcase of python projects that i have completed. 
-- [SIEM Project]() – Built and configured a Microsoft Sentinel SIEM  
-- [Hybrid Infrastructure Design]() – Diagrams and deployment notes for hybrid cloud architecture
-- [External PenTest Documentation]() – Sample penetration test report and remediation plan
+- [PowerShell Automation]() - PowerShell scripts for security and cloud automation  
+- [KQL Detections]() - Custom KQL queries for SIEM  
+- [Python Projects]() - A showcase of python projects that i have completed. 
+- [SIEM Project]() - Built and configured a Microsoft Sentinel SIEM  
+- [Hybrid Infrastructure Design]() - Diagrams and deployment notes for hybrid cloud architecture
+- [External PenTest Documentation]() - Sample penetration test report and remediation plan
 
 ### Governance, Risk & Compliance
-- [Risk Management Framework]() – Risk frameworks, appetite statements, and documentation  
-- [Vulnerability Management]() – SOPs and reporting workflows  
-- [Policies]() – Policies, incident response, and compliance documentation  
-- [Cybersecurity Training]() – Awareness training modules and presentations  
-- [Malware Handling Guide]() – Malware handling and analysis guide
+- [Risk Management Framework]() - Risk frameworks, appetite statements, and documentation  
+- [Vulnerability Management]() - SOPs and reporting workflows  
+- [Policies](https://github.com/Github-SGCS/Policies) - Policies, incident response, and compliance documentation  
+- [Cybersecurity Training]() - Awareness training modules and presentations  
+- [Malware Handling Guide]() - Malware handling and analysis guide
 
 
 ### 🌐 Online Portfolio
