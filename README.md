@@ -35,7 +35,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Python Projects]() - A showcase of python projects that i have completed. 
 - [SIEM Project]() - Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid Infrastructure Design]() - Diagrams and deployment notes for hybrid cloud architecture
-- [External PenTest Documentation]() - Sample penetration test report and remediation plan
+- [Pen-Test Documentation](https://github.com/Github-SGCS/Pen-Testing) - Sample penetration test report and remediation plan
 
 ### Governance, Risk & Compliance
 - [Risk Management](https://github.com/Github-SGCS/Risk-Management) - Risk frameworks, appetite statements, and documentation  
