@@ -42,7 +42,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [Vulnerability Management](https://github.com/Github-SGCS/Vulnerability-Management) - SOPs and reporting workflows  
 - [Policies](https://github.com/Github-SGCS/Policies) - Policies, incident response, and compliance documentation  
 - [Cybersecurity Training](https://github.com/Github-SGCS/Security-Training) - Awareness training modules and presentations  
-- [Malware Handling Guide]() - Malware handling and analysis guide
+- [Malware Handling Guide](https://github.com/Github-SGCS/Malware/blob/main/Handling%20Malware.md) - Malware handling and analysis guide
 
 
 ### 🌐 Online Portfolio
