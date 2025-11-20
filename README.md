@@ -39,7 +39,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 
 ### Governance, Risk & Compliance
 - [Risk Management Framework]() - Risk frameworks, appetite statements, and documentation  
-- [Vulnerability Management]() - SOPs and reporting workflows  
+- [Vulnerability Management](https://github.com/Github-SGCS/Vulnerability-Management) - SOPs and reporting workflows  
 - [Policies](https://github.com/Github-SGCS/Policies) - Policies, incident response, and compliance documentation  
 - [Cybersecurity Training]() - Awareness training modules and presentations  
 - [Malware Handling Guide]() - Malware handling and analysis guide
