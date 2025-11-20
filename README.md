@@ -32,7 +32,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 ### Technical Projects
 - [PowerShell Automation]() - PowerShell scripts for security and cloud automation  
 - [KQL Detections]() - Custom KQL queries for SIEM  
-- [Python Projects]() - A showcase of python projects that i have completed. 
+- [Python Projects](https://github.com/Github-SGCS/Programming-Automation) - A showcase of python projects that i have completed. 
 - [SIEM Project]() - Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid Infrastructure Design]() - Diagrams and deployment notes for hybrid cloud architecture
 - [Pen-Test Documentation](https://github.com/Github-SGCS/Pen-Testing) - Sample penetration test report and remediation plan
