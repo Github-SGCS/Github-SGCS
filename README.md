@@ -34,7 +34,7 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 - [KQL Detections]() - Custom KQL queries for SIEM  
 - [Python Projects](https://github.com/Github-SGCS/Programming-Automation) - A showcase of python projects that i have completed. 
 - [SIEM Project]() - Built and configured a Microsoft Sentinel SIEM  
-- [Hybrid Infrastructure Design]() - Diagrams and deployment notes for hybrid cloud architecture
+- [Hybrid Infrastructure Design](https://github.com/Github-SGCS/Cloud/blob/main/Hybrid_Infra_Design.md) - Diagrams and deployment notes for hybrid cloud architecture
 - [Pen-Test Documentation](https://github.com/Github-SGCS/Pen-Testing) - Sample penetration test report and remediation plan
 
 ### Governance, Risk & Compliance
