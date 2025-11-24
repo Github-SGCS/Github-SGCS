@@ -10,8 +10,8 @@
 ---
 
 # 🧠 About me 
-I specialise in identifying, monitoring, and responding to cyber threats, investigating incidents, and managing vulnerabilities through effective patching - all to help protect systems and secure data.
-Here, you will find a selection of Projects, Write-ups and hand-picked resources that gives you a glimpse into my work and how I approach cybersecurity day to day.
+I specialise in identifying, monitoring, and responding to cyber threats, investigating security incidents, and managing vulnerabilities through effective patching
+Here, you will find a selection of Projects and hand-picked resources that gives you a glimpse into my work and how I approach cybersecurity day to day.
 
 ---
 
@@ -31,11 +31,11 @@ Here, you will find a selection of Projects, Write-ups and hand-picked resources
 
 ### Technical Projects
 - [PowerShell Automation]() - PowerShell scripts for security and cloud automation  
-- [KQL Detections]() - Custom KQL queries for SIEM  
-- [Python Projects](https://github.com/Github-SGCS/Programming-Automation) - A showcase of python projects that i have completed. 
+- [KQL Detections]() - Custom KQL queries  
+- [Python Projects](https://github.com/Github-SGCS/Programming-Automation) - A collection of python projects i've created 
 - [SIEM Project]() - Built and configured a Microsoft Sentinel SIEM  
 - [Hybrid Infrastructure Design](https://github.com/Github-SGCS/Cloud/blob/main/Hybrid_Infra_Design.md) - Diagrams and deployment notes for hybrid cloud architecture
-- [Pen-Test Documentation](https://github.com/Github-SGCS/Pen-Testing) - Sample penetration test report and remediation plan
+- [Pen-Test Documentation](https://github.com/Github-SGCS/Pen-Testing) - Sample penetration test report
 
 ### Governance, Risk & Compliance
 - [Risk Management](https://github.com/Github-SGCS/Risk-Management) - Risk frameworks, appetite statements, and documentation  
