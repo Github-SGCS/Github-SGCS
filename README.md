@@ -10,7 +10,7 @@
 ---
 
 # 🧠 About me 
-I specialise in identifying, monitoring, and responding to cyber threats, investigating security incidents, and managing vulnerabilities through effective patching
+I specialise in identifying, monitoring, and responding to cyber threats, investigating security incidents, and managing vulnerabilities through effective patching. <br>
 Here, you will find a selection of Projects and hand-picked resources that gives you a glimpse into my work and how I approach cybersecurity day to day.
 
 ---
