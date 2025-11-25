@@ -54,4 +54,4 @@ Here, you will find a selection of Projects and hand-picked resources that gives
 - **Website:** [sgcs.uk](https://sgcs.uk)  
 - **LinkedIn:** [Sam Gresty](https://www.linkedin.com/in/samuel-gresty) 
 - **Email:** sam@sgcs.uk
-- **CV:** [Click Here](https://github.com/Github-SGCS/Portfolio/blob/main/Sam-Gresty-CV.pdf)
+- **CV:** [Click Here](https://github.com/Github-SGCS/Portfolio/blob/main/Sam_Gresty_CV.pdf)
